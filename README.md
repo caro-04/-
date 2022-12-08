@@ -1,2 +1,2 @@
 # practica
-estoy :smile_cat:
+# estoy :smile_cat:
